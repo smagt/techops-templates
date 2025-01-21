@@ -1,2 +1,2 @@
 # techops-templates
-templates for AI Act documentation
+This repository lists templates for AI Act documentation, accompanying the FaCCT 2025 submission "TechOps: Technical Documentation Templates for the AI Act".
